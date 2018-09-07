@@ -1,0 +1,9 @@
+{
+  "name": "onevar_setting",
+  "version": "0.1.0",
+  "repo": "hcnn/onevar_setting",
+  "description": "typedef struct for Single-Variable Optimization",
+  "keywords": ["single-variables optimization", "one-variable optimization"],
+  "license": "MIT",
+  "src": ["onevar_setting.c", "onevar_setting.h"]
+}
